@@ -3,7 +3,7 @@ A filtering json search with multiple filtering
 
 ## To Install:
 * npm i
-* 
+
 ## To Run:
 * npm start
 
